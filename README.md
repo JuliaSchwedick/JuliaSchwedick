@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/juliaschwedick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaschwedick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaschwedick&layout=compact&langs_count=7&theme=tokyonight"/>
+  
 </div>
   
 
@@ -26,6 +26,9 @@
   
   
   ##
+  
+      
+![Webp net-gifmaker](https://user-images.githubusercontent.com/97860135/149836407-42b1e18c-d858-44a6-aa26-92bdf926c31c.gif)
   
   
   
