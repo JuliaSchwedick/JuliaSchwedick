@@ -31,7 +31,7 @@
   
       
   ![Webp net-gifmaker](https://user-images.githubusercontent.com/97860135/149836407-42b1e18c-d858-44a6-aa26-92bdf926c31c.gif)
-  ![julia jpg](https://user-images.githubusercontent.com/97860135/171485673-122a2d4c-0bad-40ec-9834-42cc8993bed9.png)
+
   
   
   
